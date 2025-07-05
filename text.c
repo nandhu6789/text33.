@@ -1,6 +1,1 @@
-#include <stdio.h>
-int main()
-{
-    printf("hellow world");
-    return 0;
-}
+#include<stdio.H>
